@@ -1,0 +1,13 @@
+{
+  "cpu_umbral": 70,
+  "intervalo_escaneo": 2,
+  "cooldown": 10,
+  "palabras_sospechosas": [
+    "virus",
+    "malware",
+    "miner",
+    "hack",
+    "payload",
+    "trojan"
+  ]
+}
